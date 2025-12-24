@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+.DS_Store
+*.log
+# Keep model files for deployment
+!best_model_pipeline.pkl
+!topic_mapping.pkl
+
